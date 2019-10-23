@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://goo.gl/uKaBF7" group-title="Filmes-Super-Ru", Atualizada 23/10/2019
+https://goo.gl/AHjSoA
+ 
+#EXTINF:0 tvg-logo="https://goo.gl/ADjGpk" group-title="PAGINA FACEBOOK FREE IPTV",https://goo.gl/JDQ4F8
+https://goo.gl/JDQ4F8
+ 
+#EXTINF:0 tvg-logo="https://goo.gl/ADjGpk" group-title="GRUPO FACEBOOK FREE IPTV",https://goo.gl/ZfKQGH
+https://goo.gl/ZfKQGH
+ 
+#EXTINF:0 tvg-logo="https://goo.gl/4AsDpN" group-title="Canal no Youtube Super Ru",https://goo.gl/b8CiUN
+https://goo.gl/b8CiUN
+ 
+#EXTINF:0 tvg-logo="https://goo.gl/XumPM2" group-title="Blog Free Iptv",https://goo.gl/rgRFbZ
+https://goo.gl/rgRFbZ
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Adult" tvg-logo="http://painel.ebanonet.com.br:25461/images/2JRSjlFtk8tyM2GnFbnJR1qHSG6_small.jpg" group-title="FILMES - LANCAMENTOS",Whindersson Nunes: Adult
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/32644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ó Paí, Ó" tvg-logo="http://painel.ebanonet.com.br:25461/images/2PvWanCp7zrwlpPolP3m1fGxOp2_small.jpg" group-title="FILMES - COMEDIA",Ó Paí, Ó
