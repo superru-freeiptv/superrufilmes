@@ -1,30 +1,9 @@
-#EXTM3U
 
-#EXTINF:0 tvg-logo="https://goo.gl/uKaBF7" group-title="Filmes-Super-Ru", Atualizada 23/10/2019
-https://goo.gl/AHjSoA
- 
-#EXTINF:0 tvg-logo="https://goo.gl/ADjGpk" group-title="PAGINA FACEBOOK FREE IPTV",https://goo.gl/JDQ4F8
-https://goo.gl/JDQ4F8
- 
-#EXTINF:0 tvg-logo="https://goo.gl/ADjGpk" group-title="GRUPO FACEBOOK FREE IPTV",https://goo.gl/ZfKQGH
-https://goo.gl/ZfKQGH
- 
-#EXTINF:0 tvg-logo="https://goo.gl/4AsDpN" group-title="Canal no Youtube Super Ru",https://goo.gl/b8CiUN
-https://goo.gl/b8CiUN
- 
-#EXTINF:0 tvg-logo="https://goo.gl/XumPM2" group-title="Blog Free Iptv",https://goo.gl/rgRFbZ
-https://goo.gl/rgRFbZ
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Adult" tvg-logo="http://painel.ebanonet.com.br:25461/images/2JRSjlFtk8tyM2GnFbnJR1qHSG6_small.jpg" group-title="FILMES - LANCAMENTOS",Whindersson Nunes: Adult
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/32644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ó Paí, Ó" tvg-logo="http://painel.ebanonet.com.br:25461/images/2PvWanCp7zrwlpPolP3m1fGxOp2_small.jpg" group-title="FILMES - COMEDIA",Ó Paí, Ó
+#EXTINF:-1 tvg-id="" tvg-name="Ó Paí, Ó" tvg-logo="http://painel.ebanonet.com.br:25461/images/2PvWanCp7zrwlpPolP3m1fGxOp2_small.jpg" group-title="FILMES - COMEDIA",Ó P
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/32646.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Auto da Comparecida" tvg-logo="http://painel.ebanonet.com.br:25461/images/2PvWanCp7zrwlpPolP3m1fGxOp2_small.jpg" group-title="FILMES - COMEDIA",Auto da Comparecida
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/32645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores Ultimato HD (DUB 2019)" tvg-logo="http://painel.ebanonet.com.br:25461/images/or06FN3Dka5tukK1e9sl16pB3iy_small.jpg" group-title="FILMES - LANCAMENTOS",Vingadores Ultimato HD (DUB 2019)
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/31108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Cinza" tvg-logo="http://painel.ebanonet.com.br:25461/images/jV8wnk3Jgz6f7degmT3lHNGI2tK_small.jpg" group-title="FILMES - ROMANCE",Cinquenta Tons de Cinza
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores Ultimato HD (DUB 2019)" tvg-logo="http://painel.ebanonet.com.br:25461/images/or06FN3Dka5tukK1e9sl16pB3iy_small.jpg" group-title
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/32548.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Preto" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/552/46138552.jpg" group-title="FILMES - ROMANCE",Cinquenta Tons de Preto
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/32546.mp4
@@ -122,7 +101,7 @@ http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/25689.mkv
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/25698.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maquinas Mortais" tvg-logo="http://painel.ebanonet.com.br:25461/images/iteUvQKCW0EqNQrIVzZGJntYq9s_small.jpg" group-title="FILMES - LANCAMENTOS",Maquinas Mortais
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/25686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino que Descobriu o Vento (2019)" tvg-logo="http://painel.ebanonet.com.br:25461/images/yOr7RxHw15MMXNxGMXSmngDqHyI_small.jpg" group-title="FILMES - LANCAMENTOS",O Menino que Descobriu o Vento (2019)
+#EXTINF:-1 tvg-id="" tvg-name="O Menino que Descobriu o Vento (2019)" tvg-logo="http://painel.ebanonet.com.br:2
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/25691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Parque do Inferno (2018)" tvg-logo="http://painel.ebanonet.com.br:25461/images/qgLlnlrUtTKXkdrgMBwUfkyAkya_small.jpg" group-title="FILMES - LANCAMENTOS",Parque do Inferno (2018)
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/25693.mkv
@@ -1510,15 +1489,8 @@ http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/19831.mkv
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/20011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Senhor Das Armas" tvg-logo="http://painel.ebanonet.com.br:25461/images/nwPUI9WlYtDmE5VO6eEFCfrNXWl_small.jpg" group-title="FILMES - ACAO",O Senhor Das Armas
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/19642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Serial Killer Mascarado" tvg-logo="http://painel.ebanonet.com.br:25461/images/aNzYOJjNWUmzI1t2xKCSgpCii6n_small.jpg" group-title="FILMES - COMEDIA",O Serial Killer Mascarado
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/20012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Som" tvg-logo="http://painel.ebanonet.com.br:25461/images/bLDFrLCvXQoehLCi7hIpMIk28vE_small.jpg" group-title="FILMES - 480p",O Som
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/19544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Tango E O Assassino" tvg-logo="http://painel.ebanonet.com.br:25461/images/bLDFrLCvXQoehLCi7hIpMIk28vE_small.jpg" group-title="FILMES - CRIME",O Tango E O Assassino
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/19746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Touro Ferdinando" tvg-logo="http://painel.ebanonet.com.br:25461/images/bLL4kb9ulojQCRjVSPps0NscCF5_small.jpg" group-title="FILMES - ANIMACAO",O Touro Ferdinando
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/17160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Sharknado - Ja Estava Na Hora " tvg-logo="http://painel.ebanonet.com.br:25461/images/3UvjXMdBdmf8wrYcDfi41Mt1DIY_small.jpg" group-title="FILMES - ACAO",O Ultimo Sharknado - Ja Estava Na Hora 
+#EXTINF:-1 tvg-id="" tvg-name="O Serial Killer Mascarado" tvg-logo="http://painel.ebanonet.co
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Sharknado - Ja Estava Na Hora " tvg-logo="http://painel.ebanonet.com.br:25461/images/3UvjXMdBdmf8wrYcDfi41Mt1DIY_small.jpg" group-title="FILMES - ACAO",O Ultimo Sharknado - Ja Estava Na Ho
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/19330.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O ULTIMO SUSPIRO" tvg-logo="http://painel.ebanonet.com.br:25461/images/3OzWENKDOrJCeT2GTjWE8NOkbrZ_small.jpg" group-title="FILMES - ACAO",O ULTIMO SUSPIRO
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/20013.mp4
@@ -3010,7 +2982,4 @@ http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/33596.flv
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/33593.flv
 #EXTINF:-1 tvg-id="" tvg-name="Terrorista Americano (2018)" tvg-logo="http://painel.ebanonet.com.br:25461/images/i8gtC84JQz0RpgXBoVsyc3PM9hE_small.jpg" group-title="FILMES - LANCAMENTOS",Terrorista Americano (2018)
 http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/33588.flv
-#EXTINF:-1 tvg-id="" tvg-name="Vargur (2018)" tvg-logo="http://painel.ebanonet.com.br:25461/images/bGHmbjB60K8iqbLkCbhaiTwnXUT_small.jpg" group-title="FILMES - LANCAMENTOS",Vargur (2018)
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/33581.flv
-#EXTINF:-1 tvg-id="" tvg-name="Weevil (2018)" tvg-logo="http://painel.ebanonet.com.br:25461/images/4sEeDxBdz993MWaJFsnnfYR4Ugo_small.jpg" group-title="FILMES - LANCAMENTOS",Weevil (2018)
-http://painel.ebanonet.com.br:25461/movie/Sergio2/sergio2019/33586.flv
+#EXTINF:-1 tvg-id="" tvg-name="Vargur (2018)" tvg-logo="http://painel.ebanonet.com.br:25461/images/bGHmbjB60K8iqbLkCbhaiTwnXUT_small.jpg" group-title="FILMES - LANCAMENTOS",Va
