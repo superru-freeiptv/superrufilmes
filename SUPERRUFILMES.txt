@@ -1,4 +1,4 @@
-# superrufilmes#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", www.listaiptv.gratis
 https://listaiptv.gratis/site.mp4
